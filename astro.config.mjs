@@ -46,5 +46,5 @@ export default defineConfig({
 		}),
 	],
 	site: 'https://jfUPB.github.io',
-	base: 'template2025-10',
+	base: 'simulacion-2025-10-simulacion-template2025-10',
 });
