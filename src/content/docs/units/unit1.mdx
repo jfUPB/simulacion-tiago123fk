@@ -8,8 +8,22 @@ import unidades from '../../activities/unidades.json';
 
 export const unit = unidades.find(u => u.nombre === frontmatter.title);
 
+## Introducción 
+
+La aleatoriedad es un concepto fundamental en la simulación de sistemas interactivos, ya 
+que permite modelar comportamientos impredecibles y variabilidad en los sistemas. En 
+esta unidad, explorarás cómo generar y utilizar números aleatorios en tus simulaciones, 
+comprendiendo su importancia y aplicaciones. A través de ejemplos como los paseos aleatorios, 
+aprenderás a implementar movimientos y comportamientos que emulan la aleatoriedad presente en 
+la naturaleza. Este conocimiento te proporcionará las herramientas necesarias para desarrollar 
+simulaciones más realistas y dinámicas.
+
 
 ## ¿Qué aprenderás en esta unidad?
+
+Vas a explorar la aleatoriedad como una herramienta fundamental en la simulación de sistemas 
+interactivos. Esta herramienta te permitirá producir comportamientos impredecibles y variabilidad.
+
 
 {unit.actividades
   .filter(act => act.fase === "set")
@@ -23,6 +37,8 @@ export const unit = unidades.find(u => u.nombre === frontmatter.title);
 
 ## Investigación
 
+Vas a indagar y a experimentar con los conceptos fundamentales de la [unidad 0 del texto guía](https://natureofcode.com/random/). 
+
 {unit.actividades
   .filter(act => act.fase === "seek")
   .map(act => (
@@ -35,6 +51,9 @@ export const unit = unidades.find(u => u.nombre === frontmatter.title);
 
 ## Aplicación
 
+Vas a aplicar los conceptos con los que experimentaste en la fase de investigación para 
+diseñar y desarrollar una pieza de arte algoritmico. 
+
 {unit.actividades
   .filter(act => act.fase === "apply")
   .map(act => (
@@ -46,6 +65,11 @@ export const unit = unidades.find(u => u.nombre === frontmatter.title);
 }
 
 ## Consolidación y matacognión
+
+Ahora que has experimentado con la aleatoriedad y has aplicado estos conceptos en 
+una pieza de arte generativo, es momento de reflexionar sobre el proceso y los 
+resultados obtenidos.
+
 
 {unit.actividades
   .filter(act => act.fase === "reflect")
