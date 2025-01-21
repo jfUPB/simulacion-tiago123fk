@@ -1,11 +1,15 @@
-#### Ruido Perlin
+#### Diseño: exploración de la idea
 
-**Enunciado**: utiliza el ruido Perlin para generar variaciones aleatorias pero suaves. Construye una aplicación 
-que permita visualizar lo anterior.
+**Enunciado**: diseña una aplicación interactiva en tiempo que utilice 
+los conceptos que investigaste. La aplicación debe:
+
+- Generar una pieza de arte generativo algorítmico.
+- Debes usar al menos **TRES** conceptos.
+- El contenido generado debe ser interactivo. Puedes utilizar mouse, teclado, cámara, micrófono, 
+etc, para variar los parámetros del algoritmo en tiempo real.
 
 **Entrega**: 
 
-- Explica en tus propias palabras la figura 0.4: "A graph of Perlin noise values over time (left) and of random noise values over time (right)"
-- Explica cómo usaste el ruido Perlin para generar las variaciones.
-- El código.
-- Una captura de pantalla que muestre la visualización generada.
+- Un texto donde expliques tu intención de diseño. 
+- ¿Cómo piensas usar los tres conceptos y por qué estos?
+- Reporta los referentes que usaste para inspirarte. 

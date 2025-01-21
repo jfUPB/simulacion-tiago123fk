@@ -1,9 +1,10 @@
-#### Distribución personalizada: Vuelo de Lévy
+#### Distribución personalizada: Lévy flight
 
-**Enunciado**: investiga el concepto del "Vuelo de Lévy". Implementa un ejemplo en p5.js que simule este tipo de movimiento.
+**Enunciado**: realiza una simulación donde visualices un salta de Lévy.
 
 **Entrega**: 
 
-- Breve descripción del Vuelo de Lévy. 
-- Código del ejemplo
-- Captura de pantalla de la simulación.
+- En qué consiste el concepto de Lévy flight y en qué caso sería interesante usarlo. 
+- Código de la simulación.
+- Captura de pantalla.
+
