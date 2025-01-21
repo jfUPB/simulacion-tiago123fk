@@ -8,5 +8,4 @@ podría tener con tu perfil profesional:
 - [How To Draw With Code | Casey Reas](https://youtu.be/_8DMEHxOLQE?si=7a4UMzEpKgSninVb)  
 - [Artist Spotlight | Who is Refik Anadol?](https://youtu.be/zBYVm2wYzDU?si=IOUOOhTEr5l9qTu1)
 
-**Entrega**: escribe un texto corto donde expliques qué potencial le ves le ves al arte generativo y algorítmico en 
-tu perfil profesional. O tal vez podrías pensar en otros perfiles profesionales que tal vez no has considerado?
+**Entrega**: escribe un texto corto donde expliques qué potencial crees que pueda tener el arte generativo y algorítmico en tu perfil profesional.

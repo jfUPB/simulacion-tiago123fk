@@ -4,7 +4,7 @@
 
 Vas a realizar un experimento con el código:
 
-- Comprende el código, entiendo lo que pasa y cómo se está aplicando el concepto.
+- Comprende el código, entiende lo que pasa y cómo se está aplicando el concepto.
 - Luego harás una modificación al código. Te harás esta pregunta ¿Qué pasaría si? 
 - Trata de lanzar una hipótesis de lo que crees que ocurrirá.
 - Realiza la modificación.
@@ -19,5 +19,3 @@ Vas a documentar
 
 **Entrega**: los asuntos que te pido documentar en el enunciado, el código con las modificaciones y 
 una captura de pantalla que muestre el resultado del experimento.
-
-
