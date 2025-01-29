@@ -60,3 +60,5 @@ class Walker {
 }
 
 ```
+![Resultado del codigo modificado](../../../../assets/imagen_2025-01-29_115152406.png)
+
