@@ -62,4 +62,4 @@ class Walker {
 }
 ```
 
-
+![Resultado del codigo modificado](../../../../assets/Distribucion1.png)
