@@ -17,7 +17,7 @@ Cambiamos la lógica de step() para que la probabilidad de moverse hacia la dere
 - Pequeños cambios en la probabilidad de movimiento pueden generar trayectorias con tendencias claras.
 - Este modelo es útil para simular procesos donde hay una preferencia direccional, como el movimiento de partículas en campos eléctricos o la dispersión de organismos en un hábitat.
 
-```p5.js
+``` js
 // Caminata Aleatoria - Modificación con Probabilidades
 
 let walker;
