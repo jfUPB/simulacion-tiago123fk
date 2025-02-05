@@ -46,4 +46,4 @@ function draw() {
 
 El **ruido Perlin** es una excelente herramienta para generar variaciones suaves en simulaciones, evitando la naturaleza abrupta del ruido aleatorio normal. En esta actividad, lo aplicamos para crear un movimiento fluido en un punto, pero también se puede usar en animaciones de paisajes, efectos de viento o simulaciones de fluidos.
 
-![Resultado del codigo modificado](../../../../assets/.png)
+![Resultado del codigo modificado](../../../../assets/RuidoPerlin.png)
