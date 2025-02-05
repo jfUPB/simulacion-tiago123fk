@@ -40,3 +40,4 @@ function draw() {
 - ### Distribución en la pantalla:
   La mayoría de los círculos estarán en el centro con menos cantidad en los extremos, representando la distribución normal.
   
+![Resultado del codigo modificado](../../../../assets/gaussiana.png)
