@@ -2,7 +2,7 @@
 
 **Enunciado**:
 
-Como en tu mundo los pixeles tienen masa, entonces, ¿qué pasa si en un frame actúan sobre un objeto dos fuerzas? ¿Cómo calculas la aceleración resultante?
+Como en tu mundo los pixeles tienen masa, entonces, ¿Qué pasa si en un frame actúan sobre un objeto dos fuerzas? ¿Cómo calculas la aceleración resultante?
 
 ``` js
 mover.applyForce(wind);
@@ -23,6 +23,6 @@ applyForce(force) {
 
 **Entrega**: un texto donde expliques qué problema le ves a este planteamiento y qué solución propones. ¿Cómo lo implementarías en p5.js?
 
-Nota: recuerda, cuándo se pasa algo a un función por valor y cuándo por referencia. En este caso, **force** es 
+Nota: recuerda, ¿Cuándo se pasa algo a un función por valor y cuándo por referencia? En este caso, **force** es 
 objeto de la clase p5.Vector, es decir, es un objeto que se pasa por referencia. ¿Qué implica esto?
 

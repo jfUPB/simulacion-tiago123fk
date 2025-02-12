@@ -1,6 +1,6 @@
 #### La fuerza neta debe ser acumulativa
 
-**Enunciado**: ya te diste cuenta entonces que la fuerza neta es la sumatoria de todas las fuerzas que actúan sobre un objeto. Ahora, ¿qué pasa si en un frame actúan sobre un objeto dos fuerzas? ¿Cómo calculas la aceleración resultante?
+**Enunciado**: ya te diste cuenta entonces que la fuerza neta es la sumatoria de todas las fuerzas que actúan sobre un objeto. Ahora, ¿Qué pasa si en un frame actúan sobre un objeto dos fuerzas? ¿Cómo calculas la aceleración resultante?
 
 ``` js
 mover.applyForce(wind);
@@ -42,6 +42,6 @@ update() {
 Pero calma 🧘. Notaste algo raro al final de update()?
 
 - ¿Por qué es necesario multiplicar la aceleración por cero en cada frame?
-- ¿Por qué se multiplica por cero justo al final de update()?
+- ¿Por qué se multiplica por cero **justo al final** de update()?
 
 **Entrega**: un texto donde expliques por qué es necesario multiplicar la aceleración por cero al final de cada frame. 
