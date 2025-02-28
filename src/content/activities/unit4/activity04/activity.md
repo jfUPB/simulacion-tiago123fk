@@ -11,5 +11,4 @@ la obra alrededor de este.
 
 - Enlace a tu obra en el editor de p5.js.
 - El código.
-- Un texto donde explique qué concepto seleccionaste y cómo lo aplicaste en tu obra.
 - Una captura de pantalla con una imagen de tu obra.
