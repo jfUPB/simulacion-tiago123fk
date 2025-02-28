@@ -100,7 +100,7 @@ class Particle {
  **Cada partícula sigue Motion 101:**
 
 
--   **Aceleración, Velocidad, Posición.**
+-   Aceleración, Velocidad, Posición.
 -   La aceleración es influenciada por la energía del sonido (bass, mid, treble).
 
 
@@ -108,7 +108,7 @@ class Particle {
 
 
 -   **Las partículas reaccionan a la música**, cambiando tamaño, velocidad y color.
--   **El usuario puede pausar o reproducir la música con un clic.**
+-   El usuario puede pausar o reproducir la música con un clic.
 
 
  **Optimización:**
@@ -121,3 +121,25 @@ class Particle {
 ### Conclusión Final
 
 Esta aplicación cumple con Motion 101, ya que el movimiento de las partículas está basado en posición, velocidad y aceleración, influenciadas por la música y la interacción del usuario.
+
+### Imagenes
+**Reposo**
+
+
+![Resultado del codigo modificado](../../../../assets/Unidad2.png)
+
+
+**Modificador**
+
+
+![Resultado del codigo modificado](../../../../assets/Unidad2.1.png)
+
+
+![Resultado del codigo modificado](../../../../assets/Unidad2.2.png)
+
+### Recomendación
+- En p5.js subi dos canciones, explora con las dos para que notes diferentes visualizaciones.
+- Recuerda darle clik para reproducir la musica y clik para pausarla
+
+  
+[Aplicacion](https://editor.p5js.org/tiago123fk/sketches/7lNpQ5A7B)
