@@ -1,7 +1,5 @@
 #### Te presente a Memo Akten
 
-Esta actividad será grupal. Te presentaré primero a Memo Akten y luego te pediré que escribas un párrafo en el que describas tu impresión sobre su obra.
-
 **Enunciado**: en esta actividad te presentaré a [Memo Akten](https://www.memo.tv/), un artista y programador que ha explorado las posibilidades de la inteligencia artificial en la creación de arte. Te voy a presentar 
 una obra de Memo bajo el título sombrilla de [Simple Harmonic Motion](https://www.memo.tv/works/simple-harmonic-motion/).
 
