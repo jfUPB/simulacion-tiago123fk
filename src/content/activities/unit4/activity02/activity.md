@@ -1,10 +1,10 @@
 #### Conceptos fundamentales
 
-**Enunciado**: 
+**Enunciado**: analiza las siguientes simulaciones y responde las preguntas.
 
-Analiza las siguientes simulaciones:
+Te voy a proponer un par de simulaciones para que analices.
 
-1. [Manejo de ángulos](https://editor.p5js.org/juanferfranco/sketches/R1iTVQjzm).
+Primero mira esta simulación para el [manejo de ángulos](https://editor.p5js.org/juanferfranco/sketches/R1iTVQjzm).
 
 - ¿Qué está pasando en esta simulación? ¿Cuál es la interacción? 
 - Nota que en cada frame se está trasladando el origen del sistema de coordenadas al centro de la pantalla. ¿Por qué crees que se hace esto?
@@ -23,7 +23,7 @@ Nota esta parte del código:
 
 Observa que al dibujar los elementos gráficos parece que se está dibujando en la posición `(0, 0)` del sistema de coordenadas. ¿Por qué crees que se hace esto? y ¿Por qué aunque en cada frame se hace lo mismo, los elementos gráficos rotan?
 
-2. [Apuntar en la dirección del movimiento](https://editor.p5js.org/natureofcode/sketches/bZqHGYbRQ).
+Ahora analiza una simulación que muestra cómo puedes hacer para que los elementos gráficos de la simulación [apunten en la dirección del movimiento](https://editor.p5js.org/natureofcode/sketches/bZqHGYbRQ).
 
 - Identifica el marco motion 101. ¿Qué es lo que se está haciendo en este marco?
 
@@ -52,10 +52,5 @@ Observa detenidamente este fragmento de código de la simulación:
 - ¿Cuál es la relación entre el ángulo de rotación y el vector de velocidad? Trata de dibujar en un papel 
 el vector de velocidad y cómo se relaciona con el ángulo de rotación y la operación de traslación y rotación.
 
-3. Una vez hayas analizado las simulaciones, crear una simulación de un vehículo que puedas conducir por la pantalla utilizando las teclas de flecha: la flecha izquierda acelera el vehículo hacia la izquierda, y la flecha derecha acelera hacia la derecha. El vehículo tendrá forma triangular y debe apuntar en la dirección en la que se está moviendo actualmente.
+**Entrega**: reporta la respuesta a las preguntas anteriores.
 
-**Entrega**:
-
-- Enlace a la simulación en el editor de p5.js.
-- Código de la simulación.
-- Captura de pantalla de la simulación.

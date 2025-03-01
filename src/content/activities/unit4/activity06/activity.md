@@ -1,12 +1,14 @@
-#### Metacognición
+#### Funciones sinusoides 
 
-**Enunciado**: reflexiona sobre tu propio proceso de aprendizaje en esta unidad.
+**Enunciado**: repasa la función sinusoide [aquí](https://es.wikipedia.org/wiki/Sinusoide).
 
-- ¿Qué estrategias de aprendizaje utilizaste?
-- ¿Qué te funcionó mejor para comprender los conceptos? 
-- ¿Qué podrías mejorar?
-- ¿Cómo te sentiste durante el proceso de aprendizaje? 
-- ¿Qué te motivó? 
-- ¿Qué te frustró?
+- Recuerda estos conceptos: velocidad angular, frecuencia, periodo, amplitud y fase.
+- Realiza una simulación en la que puedas modificar estos parámetros y observar cómo se comporta la función sinusoide.
 
-**Entrega**: respuesta a las preguntas.
+Por ejemplo, te doy ideas, si juego solo con la fase, mira [este ejemplo](https://editor.p5js.org/juanferfranco/sketches/201gcBvjy).
+
+**Entrega**:
+
+- Enlace a la simulación en el editor de p5.js.
+- Código de la simulación.
+- Captura de pantalla de la simulación.
