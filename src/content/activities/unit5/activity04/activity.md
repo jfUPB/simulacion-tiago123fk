@@ -14,4 +14,7 @@ en la actividad anterior?
 ✅ 3. ¿Cómo se aplican fuerzas externas a los sistemas de partículas que trabajaste en la unidad?
 ¿Qué fuerzas se aplicaron y cómo están modeladas?
 
+✅ 4. ¿Cómo se aplicaste los conceptos de herencia y polimorfismo en los sistemas de partículas que
+trabajaste en la unidad?
+
 📤 **Entrega**: responde a las preguntas del enunciado en tu bitácora.

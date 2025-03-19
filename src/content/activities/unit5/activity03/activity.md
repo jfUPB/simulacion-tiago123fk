@@ -12,4 +12,5 @@
 
 - Enlace a tu obra en el editor de p5.js.  
 - El código.
+- Qué concepto de cada unidad aplicaste, cómo lo aplicaste y por qué.
 - Una captura de pantalla con una imagen de tu obra.
