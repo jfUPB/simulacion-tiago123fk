@@ -248,5 +248,8 @@ class Particle {
 
 ``` 
 [Link de la simulación](https://editor.p5js.org/tiago123fk/sketches/2K86qyIQl)
+
 ### Video
-![Resultado del codigo modificado](../../../../assets/VIDEO.mp4)
+
+[Resultado del codigo modificado](https://github.com/jfUPB/simulacion-tiago123fk/blob/main/src/assets/VIDEO.mp4)
+
